@@ -20,6 +20,11 @@
         "when": "editorTextFocus"
     },
     {
+        "key": "ctrl+e",
+        "command": "editor.action.previewDeclaration",
+        "when": "editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
+    },
+    {
         "key": "ctrl+shift+t",
         "command": "workbench.action.tasks.terminate"
     },
@@ -28,7 +33,11 @@
         "command": "workbench.action.output.toggleOutput"
     },
     {
-        "key": "ctrl+shift+enter",
+        "key": "ctrl+enter",
         "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "ctrl+shift+enter",
+        "command": "workbench.action.showCommands"
     }
 ]

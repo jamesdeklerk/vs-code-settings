@@ -10,9 +10,11 @@ Use: [keybindings.json](keybindings.json)
 | ctrl+shift+up | move lines up |
 | ctrl+d | duplicate lines |
 | ctrl+shift+l | format |
+| ctrl+e | preview declaration |
 | ctrl+shift+t | terminate |
 | ctrl+shift+o | toggle output |
-| ctrl+shift+enter | open command palette |
+| ctrl+enter | open command palette |
+| ctrl+shift+enter | open command palette to run command |
 
 ## Snippets
 
