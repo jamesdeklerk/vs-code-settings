@@ -1,5 +1,17 @@
 # VS Code Settings
 
+## Folder to clone to
+
+For Windows:
+```
+C:\Users\yourusername\AppData\Roaming\Code\User
+```
+
+For Mac:
+```
+/Users/yourusername/Library/Application Support/Code/User
+```
+
 ## Keybindings
 File > Preferences > Keyboard Shortcuts <br />
 Use: [keybindings.json](keybindings.json)
