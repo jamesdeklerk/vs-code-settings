@@ -1,0 +1,20 @@
+{
+	"Create header comment": {
+		"prefix": "commentBeginSection",
+		"body": [
+			"// =======================================================",
+			"// $1",
+			"// =======================================================",
+			"$2"
+		],
+		"description": "Create header comment"
+	},
+	"Create footer comment": {
+		"prefix": "commentCloseSection",
+		"body": [
+			"// -------------------------------------------------------",
+			"$1"
+		],
+		"description": "Create footer comment"
+	}
+}
