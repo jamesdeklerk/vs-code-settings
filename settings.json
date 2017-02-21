@@ -1,6 +1,6 @@
+// Place your settings in this file to overwrite the default settings
 {
     "files.autoSave": "afterDelay",
-    "[typescript]": {
-        
-    }
+    "[typescript]": {},
+    "window.zoomLevel": 0
 }

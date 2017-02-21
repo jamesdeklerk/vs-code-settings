@@ -1,6 +1,10 @@
 # VS Code Settings
 
 ## Folder to clone to
+_If cloned to the appropriate folder, all the VS Code settings will be applied
+automatically, and pulling the latest changes will give you the latest settings.
+There are however some settings that need to be applied manually, for this,
+see <!-- [Offline Spell Checker](#offline-spell-checker-apply-manually) and --> [Theming](#theming-apply-manually)._
 
 For Windows:
 ```
@@ -36,8 +40,14 @@ Use: [css.json](snippets/css.json), [scss.json](snippets/scss.json), [javascript
 - tslint disable linting of the next line.
 - Common [Publish-subscribe-library](https://github.com/jamesdeklerk/publish-subscribe-library) functions.
 
+<!--
+## Offline Spell Checker (apply manually)
+```
+ext install spellchecker
+```
+_Use ctrl+. to get suggestion menu._-->
 
-## Theming
+## Theming (apply manually)
 ```
 ext install Theme-MaterialKit
 ```
