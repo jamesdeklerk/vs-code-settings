@@ -1,6 +1,10 @@
 // Place your settings in this file to overwrite the default settings
 {
     "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
     "[typescript]": {},
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Material Night Eighties",
+    "workbench.iconTheme": "vs-seti"
 }
